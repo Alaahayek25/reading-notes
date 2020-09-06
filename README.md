@@ -22,7 +22,7 @@
 |           |             |
 |           |             |
 ## we have a lot of features for markdown. For example:
-Headings:
+*Headings*:
 
 # Heading level 1
 ## Heading level 2
@@ -31,18 +31,18 @@ Headings:
 ##### Heading level 5
 ###### Heading level 6
 
-Bold:
+*Bold*:
 I just love **bold text**
 I just love __bold text__. 
 Love**is**bold
-Italic:
+*Italic*:
 Italicized text is the *cat's meow*.
 Italicized text is the _cat's meow_.
 A*cat*meow
 
-Blockquotes:
+*Blockquotes*:
 > Dorothy followed her through many of the beautiful rooms in her castle.
-Horizontal Rules:
+*Horizontal Rules*:
 ***
 
 ---
