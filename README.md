@@ -2,25 +2,9 @@
 
 ## This web site is summeries of all readings about whole course of 201, here you will find the information simply and aesy to reach.
 
+# 1. [Read](./Read.md) 
 
-|supjcet    |time to read |
-|:----------|-------------|
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
-|           |             |
+
 ## we have a lot of features for markdown. For example:
 *Headings*:
 
