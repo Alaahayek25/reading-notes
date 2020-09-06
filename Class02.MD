@@ -70,6 +70,7 @@ the quotation.
 emphasis should be placed, the definition of any
 > - acronyms used, when given text is a quotation)
  
+ ---
  # CSS 
 
   - CSS treats each HTML element as if it appears inside
@@ -87,6 +88,8 @@ property sets the choice of font, and the value arial
 specifies Arial as the preferred typeface.
  - CSS rules usually appear in a separate document,
 although they may appear within an HTML page.
+
+---
 
 # JS
 
