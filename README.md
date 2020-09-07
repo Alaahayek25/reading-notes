@@ -3,7 +3,7 @@
 ## This web site is summeries of all readings about whole course of 201, here you will find the information simply and aesy to reach.
 
 # 1. [Read1](./Read1.md) 
-# 2. [Class02](./Class02.md) 
+# 2. [Class02](./Class02.MD) 
 # 3. [Read3](./Read3.md) 
 # 4. [Read4](./Read4.md) 
 # 5. [Read5](./Read5.md) 

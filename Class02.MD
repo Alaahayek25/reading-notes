@@ -1,5 +1,5 @@
      Headings
- <h1>> is used for main headings
+ <h1> is used for main headings
 
   # this is a Main Heading
 <h2> is used for subheadings
@@ -69,6 +69,10 @@ the quotation.
 > - They also provide semantic information (e.g. where
 emphasis should be placed, the definition of any
 > - acronyms used, when given text is a quotation)
+
+---
+
+
  
  ---
  # CSS 
