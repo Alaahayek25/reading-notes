@@ -28,7 +28,7 @@ be used anywhere because it has global scope.
 If you do not use the var keyword when creating
 a variable, it is placed in global scope. 
 
-### HOW TO DEAL WITH ERRORS 
+## HOW TO DEAL WITH ERRORS 
 there are two things you can do with the errors. 
 1. DEBUG THE SCRIPT TO FIX ERRORS
 
